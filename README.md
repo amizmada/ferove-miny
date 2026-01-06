@@ -1,6 +1,5 @@
 # FÉROVÉ MINY (Fair Minesweeper)
 
-**Autor:** Adam Zima
 **Předmět:** Programování 1 (NPRG030)
 
 ## 📖 Úvod
